@@ -23,5 +23,17 @@ here is the code to search for a name
 ![](search%20for%20a%20name.PNG)
 the picture below is to show the user entering a name to search. 
 ![](search%20by%20last%20name%20then%20click%20submit.PNG)
-Picture below is to show the results of entering a last name to search by. 
+Picture below is to show the results of entering a last name to search by. Since there were 2 people by the name Inzunza in the table it came up with 2 names from the database. 
 ![](resultsofsearchbylastname.PNG)
+
+
+The next step was for the user to enter a name and then have it entered into the database table as well. to keep the code clean i used another page for this. 
+here is a before to see the code and how the page looks. 
+![](addingnewuserBEFORE.PNG)
+
+and then the after image once the submit button is clicked. 
+![](addingnewuserAFTER.PNG)
+
+
+%20
+![]()
