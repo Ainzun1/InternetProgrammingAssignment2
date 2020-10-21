@@ -2,8 +2,9 @@
 Assignment 2
 
 
-# CSS SIMPLE WEBSITE - INTERNET PROGRAMMMING 
+# CSS Dynamic WEBSITE - INTERNET PROGRAMMMING 
 
-Tools i used were notepad, w3schools.com for a website template and the snipping tool on my computer. 
-I created this Project to show off the different ways to make a website more organized, pleasing to the viewer, and which tags and elements to use on a website.  
+In this assignment I had to Create a web-page that consists of dynamic features, i.e., a signup form that is associated with mySQL table named "NewUsers". The form can be used to post data to mySQL table and fetch data from mySQL table displaying it on a webpage. Language to be used is "PHP" ONLY.
+
+The tools I used were Notepad++, USB-Webserver program, w3-schools website for some formatting.
 
