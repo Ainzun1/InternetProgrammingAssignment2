@@ -28,12 +28,14 @@ Picture below is to show the results of entering a last name to search by. Since
 
 
 The next step was for the user to enter a name and then have it entered into the database table as well. to keep the code clean i used another page for this. 
-here is a before to see the code and how the page looks. 
+here is a before to see the database and how the page looks. 
+
+database before new name added
 ![](addingnewuserBEFORE.PNG)
 
+database after new name added
 and then the after image once the submit button is clicked. 
 ![](addingnewuserAFTER.PNG)
+as you can see there are only 4 names in the table before and then after i added a few names you can see the table is updated with the new names. the website also prints all of the names in the table to make sure it was added. 
 
 
-%20
-![]()
